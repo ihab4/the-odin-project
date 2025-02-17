@@ -1,0 +1,48 @@
+body {
+    font-family: "Times New Roman", Times, serif;
+    padding: 30px;
+}
+
+h1,
+h2 {
+    text-align: center;
+}
+
+h1 {
+    font-size: 50px;
+    color: red;
+}
+
+h2 {
+    font-size: 30px;
+    color: green;
+}
+
+h3 {
+    font-size: 20px;
+    color: coral;
+}
+
+img {
+    width: 400px;
+    height: auto;
+    padding-left: 15px;
+}
+
+ul,
+ol {
+    font-size: 20px;
+}
+
+p {
+    font-size: 20px;
+}
+
+strong {
+    color: blue;
+}
+
+.list {
+    display: inline-block;
+    
+}
